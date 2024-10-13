@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.26d91b03.css",
+    "main.js": "/portfolio/static/js/main.cc77a947.js",
+    "static/media/JigsawPuzzleGame.mp4": "/portfolio/static/media/JigsawPuzzleGame.334d3be289ed8f6e5592.mp4",
+    "static/media/GISPic.png": "/portfolio/static/media/GISPic.4e26a0b33fa821643a9c.png",
+    "static/media/JigsawPuzzleGame.png": "/portfolio/static/media/JigsawPuzzleGame.a44b6b2c6c65822b98e8.png",
+    "static/media/numpy.png": "/portfolio/static/media/numpy.7deccf79a3075b4304d8.png",
+    "static/media/IMG_5266.JPG": "/portfolio/static/media/IMG_5266.97e70233ab3e803908cc.JPG",
+    "static/media/git.png": "/portfolio/static/media/git.52ffcca1c2260d3a141b.png",
+    "static/media/assembly.png": "/portfolio/static/media/assembly.fa99b64112d3c3612d5b.png",
+    "static/media/pytorch.png": "/portfolio/static/media/pytorch.9d0e33c4afc64c78d2b5.png",
+    "static/media/Lunar_lander_flier.jpg": "/portfolio/static/media/Lunar_lander_flier.56e63d5b32955a5d2593.jpg",
+    "static/media/cpp_logo.png": "/portfolio/static/media/cpp_logo.053a898d752aef72651e.png",
+    "static/media/ubuntu.png": "/portfolio/static/media/ubuntu.3f1d3ec8e62042682098.png",
+    "static/media/python-logo-only.png": "/portfolio/static/media/python-logo-only.632369df831d16241b59.png",
+    "static/media/C_Programming_Language.svg.png": "/portfolio/static/media/C_Programming_Language.svg.409d3fed9ca5c67c8454.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.abaab792911955c82da0.png",
+    "static/media/css3.png": "/portfolio/static/media/css3.17d14cbe91cbf1433b63.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.26d91b03.css.map": "/portfolio/static/css/main.26d91b03.css.map",
+    "main.cc77a947.js.map": "/portfolio/static/js/main.cc77a947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26d91b03.css",
+    "static/js/main.cc77a947.js"
+  ]
+}
