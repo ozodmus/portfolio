@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="refresh" content="0; url=./index.html" />
     <script>
-      // Redirect back to the index page, preserving the path.
       var pathname = window.location.pathname;
-      window.location.replace(window.location.origin + '/#' + pathname);
+      var origin = window.location.origin;
+      window.location.replace(origin + '/portfolio/#' + pathname);
     </script>
   </head>
   <body></body>
